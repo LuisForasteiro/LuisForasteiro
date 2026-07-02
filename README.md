@@ -65,7 +65,9 @@ class LuisFelipe:
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**diagrama_pantaneiro**](https://github.com/LuisForasteiro/diagrama_pantaneiro) | Portfolio tracker + contribution rebalancing assistant using fundamentalist analysis (Diagrama do Cerrado / AUVP methodology). | `FastAPI` `SvelteKit 5` `Docker` |
-| [**robot-framework**](https://github.com/LuisForasteiro/robot-framework) | RPA & test-automation experiments with Robot Framework. | `Robot Framework` `Python` |
+| [**monitor-cotacao-bitcoin**](https://github.com/LuisForasteiro/monitor-cotacao-bitcoin) | Bitcoin price monitor (USD/BRL) via CoinGecko, with price alerts and CSV history. | `Python` `requests` |
+| [**organizador-de-arquivos**](https://github.com/LuisForasteiro/organizador-de-arquivos) | Automation CLI that sorts a folder's files into subfolders by type. | `Python` |
+| [**web-scraper-frases**](https://github.com/LuisForasteiro/web-scraper-frases) | Web scraper (requests + BeautifulSoup) that collects quotes and exports them to CSV. | `Python` `BeautifulSoup` |
 | [**calc_bitcoin**](https://github.com/LuisForasteiro/calc_bitcoin) | Bitcoin calculator web app. | `HTML` `JS` |
 
 ---
