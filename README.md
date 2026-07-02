@@ -65,10 +65,7 @@ class LuisFelipe:
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**diagrama_pantaneiro**](https://github.com/LuisForasteiro/diagrama_pantaneiro) | Portfolio tracker + contribution rebalancing assistant using fundamentalist analysis (Diagrama do Cerrado / AUVP methodology). | `FastAPI` `SvelteKit 5` `Docker` |
-| [**btctrackerv2**](https://github.com/LuisForasteiro/btctrackerv2) | Bitcoin portfolio & price tracker — v2. | `TypeScript` |
-| [**rpa-banco-abc-pag-16**](https://github.com/LuisForasteiro/rpa-banco-abc-pag-16) | RPA that posts Santander brokerage notes into Cashflow (Banco ABC Brasil). | `Python` `RPA` |
-| [**mp-engenharia-landing**](https://github.com/LuisForasteiro/mp-engenharia-landing) | Scroll-driven landing page with canvas frame-scrub animation. | `Next.js 15` `TypeScript` |
-| [**kapitalize-wallet**](https://github.com/LuisForasteiro/kapitalize-wallet) | Kapitalize crypto wallet. | `TypeScript` |
+| [**robot-framework**](https://github.com/LuisForasteiro/robot-framework) | RPA & test-automation experiments with Robot Framework. | `Robot Framework` `Python` |
 | [**calc_bitcoin**](https://github.com/LuisForasteiro/calc_bitcoin) | Bitcoin calculator web app. | `HTML` `JS` |
 
 ---
@@ -76,19 +73,10 @@ class LuisFelipe:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisForasteiro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luis Forasteiro - GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisForasteiro&layout=compact&hide_border=true&langs_count=8&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=LuisForasteiro&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=LuisForasteiro&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 </div>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisForasteiro&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisForasteiro&theme=dracula&row=1&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
 
 ---
 
@@ -114,7 +102,7 @@ class LuisFelipe:
 
 <br>
 
-<img src="https://profile-counter.glitch.me/LuisForasteiro/count.svg" alt="Visitor count" />
+<img src="https://komarev.com/ghpvc/?username=LuisForasteiro&label=Profile+views&color=00bfbf&style=for-the-badge" alt="Profile views" />
 
 </div>
 
